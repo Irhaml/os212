@@ -1,4 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  60 L03 GitHub related
+ZCZC W00  60 L04 Making github page
+ZCZC W00  60 L70 Studying Data Science and Machine Learning course in Udemy
+ZCZC W00  60 L73 Playing Valorant
+ZCZC W00 320 L84 Rest
+ZCZC W00  60 L73 Enroll and check other course
+ZCZC W00 120 L87 Attend MPPI Sync Class
