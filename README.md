@@ -3,7 +3,7 @@
 ### 🌠 My Operating System GitHub Pages 🌠
 
 ________________________________________________________
-### [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/Irhaml/os212)
+### [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/Irhaml/os212) | [LINKS](LINKS/) 
 ________________________________________________________
 
 Repository for Operating Sistem course
