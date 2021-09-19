@@ -17,3 +17,9 @@ ZCZC W01  10 L18 bash, regex, sed, and awk
 ZCZC W01  20 L19 Read
 ZCZC W01 110 L02 Attend OS Sync Class
 ZCZC W01  30 L02 Attend OS QnA Class
+ZCZC W02 110 L02 Attend OS Sync Class
+ZCZC W02  30 L02 Attend OS QnA Class
+ZCZC W02  60 L07 Trying demo
+ZCZC W02  60 L06 Reading OSC10
+ZCZC W02 120 L09 Doing assignment week 02
+
