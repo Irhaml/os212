@@ -22,4 +22,10 @@ ZCZC W02  30 L02 Attend OS QnA Class
 ZCZC W02  60 L07 Trying demo
 ZCZC W02  60 L06 Reading OSC10
 ZCZC W02 120 L09 Doing assignment week 02
+ZCZC W03 120 L02 Attend OS Sync Class
+ZCZC W03  30 L02 Attend OS QnA Class
+ZCZC W03  90 L07 Trying demo
+ZCZC W03  60 L06 Reading OSC10 Chapter 13 + 14 + 15
+ZCZC W03 150 L09 Doing assignment week 03
+
 
