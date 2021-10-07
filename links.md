@@ -15,4 +15,11 @@ Cheatsheet yang berisi syntax-syntax untuk c command. Disertai fungsi dan contoh
 Cheatsheet yang berisi syntax-syntax untuk c command. Lebih lengkap disertai contoh dan fungsi yang lebih lengkap sangat membantu untuk mempelajari syntax dari c.
 5. [Hex Calculator](https://www.calculator.net/hex-calculator.html)<br>
 Website yang dapat melakukan operasi aritmatika untuk hexadecimal. Sangat membantu untuk menghitung address yang berupa hexadecimal.
+6. [Fuse Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+Berisikan dokumentasi untuk Fuse yang lengkap. Sangat membantu untuk mengetahui fungsi dari keyword command yang ada di Fuse.
+7. [Decrypt & Extract Tarball](https://osp4diss.vlsm.org/W04.html)<br>
+Cara untuk melakukan decrypt dan extract tarball. Sangat membantu untuk mendapatkan isi dari report nilai OS dan weekly assignment.
+
+
+
 

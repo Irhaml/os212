@@ -34,3 +34,11 @@ ZCZC W04  60 L06 Reading OSC10 Chapter 9
 ZCZC W04 180 L09 Doing assignment week 04
 ZCZC W04  30 L08 Asking some problem in week 04 assignment
 ZCZC W04  60 L05 Trying previous midterm problem
+ZCZC W05 150 L02 Attend OS Sync Class
+ZCZC W05  30 L02 Attend OS QnA Class
+ZCZC W05  80 L07 Trying demo
+ZCZC W05  80 L06 Reading OSC10 Chapter 10
+ZCZC W05 170 L09 Doing assignment week 05
+ZCZC W05  40 L08 Asking some problem in week 05 assignment & how to get report score
+ZCZC W05  60 L05 Trying previous midterm problem
+
