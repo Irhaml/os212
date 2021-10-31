@@ -1,4 +1,4 @@
-[![Repo commits](https://badgen.net/github/commits/Irhaml/os212)](https://github.com/Irhaml/os212/commits)
+[![Repo commits](https://badgen.net/github/commit/Irhaml/os212)](https://github.com/Irhaml/os212/commit)
 [![Repo last commit](https://img.shields.io/github/last-commit/Irhaml/os212)](https://github.com/Irhaml/os212/commits/master)
 
 # os212
