@@ -19,7 +19,9 @@ Website yang dapat melakukan operasi aritmatika untuk hexadecimal. Sangat memban
 Berisikan dokumentasi untuk Fuse yang lengkap. Sangat membantu untuk mengetahui fungsi dari keyword command yang ada di Fuse.
 7. [Decrypt & Extract Tarball](https://osp4diss.vlsm.org/W04.html)<br>
 Cara untuk melakukan decrypt dan extract tarball. Sangat membantu untuk mendapatkan isi dari report nilai OS dan weekly assignment.
-
-
+8. [C : fork()](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Berisi penjelasan yang lengkap mengenai fork di C. Dilengkapi dengan contoh dan penjelasan yang bagus.
+9. [C : wait()](https://www.geeksforgeeks.org/wait-system-call-c/) <br>
+Berisi penjelasan yang lengkap mengenai wait di C. Dilengkapi dengan contoh dan penjelasan yang mantap.
 
 
