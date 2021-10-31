@@ -1,9 +1,9 @@
-[![Repo commits](https://badgen.net/github/commits/Irhaml/os212)](https://github.com/Irhaml/os212/commits/master)
-[![Repo last commit](https://img.shields.io/github/last-commit/Irhaml/os212)](https://github.com/Irhaml/os212/commits/master)
+[![Repo commits](https://badgen.net/github/commits/Irhaml/os212/main)](https://github.com/Irhaml/os212/commits/main)
+[![Repo last commit](https://img.shields.io/github/last-commit/Irhaml/os212)](https://github.com/Irhaml/os212/commits/main)
 
 # os212
-### Written by Muhammad Irham Luthfi ????
-### ?? My Operating System GitHub Pages ??
+### Written by Muhammad Irham Luthfi 👋😄
+### 🌠 My Operating System GitHub Pages 🌠
 
 ________________________________________________________
 ### [LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/Irhaml/os212) | [LINKS](LINKS/) 
