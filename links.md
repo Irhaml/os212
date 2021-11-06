@@ -23,5 +23,11 @@ Cara untuk melakukan decrypt dan extract tarball. Sangat membantu untuk mendapat
 Berisi penjelasan yang lengkap mengenai fork di C. Dilengkapi dengan contoh dan penjelasan yang bagus.
 9. [C : wait()](https://www.geeksforgeeks.org/wait-system-call-c/) <br>
 Berisi penjelasan yang lengkap mengenai wait di C. Dilengkapi dengan contoh dan penjelasan yang mantap.
+10. [POSIX API](https://docs.oracle.com/cd/E19048-01/chorus5/806-6897/auto1/index.html) <br>
+Dokumentasi untuk POSIX API. Sangat ringkas sehingga dapat dengan cepat untuk mencari yang sesuai kebutuhan.
+11. [Introduction to Deadlock](https://www.guru99.com/deadlock-in-operating-system.html) <br>
+Berisi penjelasan mengenai deadlock. Jelas, padat, ringkas dan dilengkapi dengan contoh sehingga sangat direkomendasikan. 
+12. [Mutex Lock Code Examples](https://docs.oracle.com/cd/E19455-01/806-5257/sync-12/index.html) <br>
+Berisi contoh-contoh kode mengenai Mutex Lock. Dilengkapi penjelasan untuk menambah pemahaman mengenai mutex lock.
 
 
