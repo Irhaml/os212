@@ -29,5 +29,11 @@ Dokumentasi untuk POSIX API. Sangat ringkas sehingga dapat dengan cepat untuk me
 Berisi penjelasan mengenai deadlock. Jelas, padat, ringkas dan dilengkapi dengan contoh sehingga sangat direkomendasikan. 
 12. [Mutex Lock Code Examples](https://docs.oracle.com/cd/E19455-01/806-5257/sync-12/index.html) <br>
 Berisi contoh-contoh kode mengenai Mutex Lock. Dilengkapi penjelasan untuk menambah pemahaman mengenai mutex lock.
+13. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/) <br>
+Berisi langkah-langkah dan panduan lengkap untuk membuat linux dari scratch. Merupakan panduan official yang lengkap.
+14. [CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+CPU Scheduling di dalam Operating Systems. SRTF, SJF, LRTF, Round Robin, HRRN, Multilevel Queue. Dijelaskan dengan lengkap dan terdapat contoh soal.
+15. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
+Multiple-Processor Scheduling di dalam Operating System. Penjelasan lengkap juga dengan processor affinity, load balancing, multicore processors, etc.
 
 

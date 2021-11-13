@@ -55,5 +55,14 @@ ZCZC W07  70 L06 Reading OSC10 Chapter 6, 7, and 8
 ZCZC W07  80 L09 Doing assignment week 07 and searching for links
 ZCZC W07  40 L08 Asking some problem in week 07 assignment & check report score
 ZCZC W07  60 L05 Trying previous midterm problem
+ZCZC W08 140 L02 Attend OS Sync Class
+ZCZC W08  40 L02 Attend OS QnA Class
+ZCZC W08  30 L07 Trying demo
+ZCZC W08  40 L06 Reading OSC10 Chapter 5
+ZCZC W08  90 L06 Linux From Scratch 11.0 Chapter 01-05
+ZCZC W08 180 L09 Doing assignment week 08 and searching for links
+ZCZC W08  60 L08 Asking some error in week 08 assignment & check report score
+ZCZC W08  30 L05 Trying previous midterm problem
+
 
 
