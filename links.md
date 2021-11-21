@@ -35,5 +35,9 @@ Berisi langkah-langkah dan panduan lengkap untuk membuat linux dari scratch. Mer
 CPU Scheduling di dalam Operating Systems. SRTF, SJF, LRTF, Round Robin, HRRN, Multilevel Queue. Dijelaskan dengan lengkap dan terdapat contoh soal.
 15. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
 Multiple-Processor Scheduling di dalam Operating System. Penjelasan lengkap juga dengan processor affinity, load balancing, multicore processors, etc.
-
-
+16. [Disk Scheduling Algorithms](http://www.cs.iit.edu/~cs561/cs450/disksched/disksched.html)<br> 
+Berisi algoritma-algoritma mengenai disk scheduling. Lengkap dan dilengkapi dengan visualisasi.
+17. [Tutorial Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br> 
+Video tutorial mengenai cara compile linux from scratch. Sangat lengkap dan dijelaskan hal-hal yang penting.
+18. [Build Linux Kernel](https://phoenixnap.com/kb/build-linux-kernel) <br> 
+Tutorial membangun Linux kernel dalam tujuh langkah yang mudah diikuti. Walaupun membutuhkan waktu yang lama (tergantung kecepatan sistem).
